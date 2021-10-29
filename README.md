@@ -8,5 +8,5 @@
 <a href="https://lendmark.sk/">🌴Minecraft Sever⠀</a>   
 <br>
 <br>
-<img src="https://github.com/OLIMINATOR/oliminator/blob/master/github-metrics.svg" alt="github metrics">
+<img src="https://raw.githubusercontent.com/OLIMINATOR/oliminator/main/github-metrics.svg" alt="github metrics">
 </div>
