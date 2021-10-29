@@ -5,5 +5,7 @@
 <br>
 <a href="https://oliminator.net/">🌐Website⠀</a>           
 <a href="https://odkazy.oliminator.net/">📷Links⠀</a>            
-<a href="https://lendmark.sk/">🌴Minecraft Sever⠀</a>            
+<a href="https://lendmark.sk/">🌴Minecraft Sever⠀</a>   
+  
+<img src="https://github.com/OLIMINATOR/oliminator/blob/master/github-metrics.svg" alt="github metrics">
 </div>
